@@ -1,0 +1,52 @@
+state_name,state_abbr,count
+California,CA,904
+Texas,TX,362
+Florida,FL,338
+New York,NY,292
+New Jersey,NJ,209
+Ohio,OH,181
+Washington,WA,170
+Michigan,MI,169
+Virginia,VA,167
+Illinois,IL,152
+Indiana,IN,133
+Pennsylvania,PA,133
+North Carolina,NC,127
+Arizona,AZ,119
+Massachusetts,MA,111
+Oregon,OR,109
+Tennessee,TN,99
+Colorado,CO,87
+Georgia,GA,87
+Maryland,MD,85
+Nevada,NV,68
+Alabama,AL,66
+Minnesota,MN,56
+Wisconsin,WI,56
+Missouri,MO,51
+South Carolina,SC,48
+Kentucky,KY,45
+Louisiana,LA,38
+Utah,UT,38
+Hawaii,HI,200
+Oklahoma,OK,35
+Connecticut,CT,31
+Iowa,IA,31
+Kansas,KS,23
+Rhode Island,RI,23
+West Virginia,WV,20
+Nebraska,NE,19
+New Mexico,NM,19
+New Hampshire,NH,17
+District of Columbia,DC,16
+Arkansas,AR,15
+Mississippi,MS,14
+Delaware,DE,13
+Maine,ME,10
+Idaho,ID,9
+Alaska,AK,250
+Montana,MT,4
+North Dakota,ND,4
+South Dakota,SD,2
+Wyoming,WY,2
+Vermont,VT,1
